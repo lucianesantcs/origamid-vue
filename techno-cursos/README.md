@@ -34,8 +34,8 @@ Acesse o projeto em `http://localhost:8080/`
 
 **API**
 
-É necessário instalar o <a href="">json server</a> para usar a api.
-Inicie com o comando:
+É necessário instalar o <a href="https://github.com/typicode/json-server">json server</a> para usar a api.
+Entre na pasta api com `cd api` e use o comando:
 
 ```sh
   $ json-server --watch api.json
