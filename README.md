@@ -60,7 +60,7 @@ Você consegue acessar a api em `http://localhost:3000/`
 ### Techno Store
 
 Entre na pasta do projeto com `cd techno-store` para ver os arquivos. <br>
-Acesse o projeto abrindo o arquivo **index.html** no seu navegador.
+Vocẽ irá precisar de um servidor para visualizar o projeto, como Live Server no VSCode.
 
 ## Author
 
