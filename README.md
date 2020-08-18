@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://raw.githubusercontent.com/lucianesantcs/origamid-vue/master/public/mockup.png)
 
 # Origamid Vue
 
@@ -7,7 +7,7 @@ Contém dois projetos, Techno Store e Techno Cursos, desenvolvidos no curso de V
 **Techno Store** <br>
 Foi desenvolvido sem a instalação do Vue, apenas importando o arquivo `vue.min.js`<br>
 
-**Techno Cursos**
+**Techno Cursos** <br>
 Foi criado com a instalação do Vue, usando `vue create`, contém toda a estrutura de um projeto na linguagem.
 
 ### Previews
